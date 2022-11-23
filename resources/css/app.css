@@ -1,0 +1,18 @@
+
+@import 'bootstrap';
+
+.fondo{
+    height: 100vh;
+    background-color: #5b5e64;
+    display: flex;
+}
+
+.botonsin{
+    height: auto;
+    background-color: aliceblue;
+}
+
+.botonsin:hover{
+    background-color: black;
+    color: white;
+}
